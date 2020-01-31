@@ -1,7 +1,7 @@
 [![npm version](https://img.shields.io/npm/v/csslint.svg)](https://www.npmjs.com/package/csslint)
 [![Build Status](https://img.shields.io/travis/CSSLint/csslint/master.svg)](https://travis-ci.org/CSSLint/csslint)
 [![Dependency Status](https://img.shields.io/david/CSSLint/csslint.svg)](https://david-dm.org/CSSLint/csslint)
-[![devDependency Status](https://img.shields.io/david/dev/CSSLint/csslint.svg)](https://david-dm.org/CSSLint/csslint#info=devDependencies)
+[![devDependency Status](https://img.shields.io/david/dev/CSSLint/csslint.svg)](https://david-dm.org/CSSLint/csslint#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/csslint.svg)](https://greenkeeper.io/)
 
 # CSSLint
 
